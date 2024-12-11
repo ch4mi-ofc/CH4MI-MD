@@ -4,9 +4,9 @@
     "description": "CH4MIMD(PMD) is a Powerful Whatsapp bot.  👨‍💻❤️",
     "main": "start.js",
     "scripts": {
-        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-ch4mimd",
-        "stop": "pm2 stop wabot-ch4mimd",
-        "restart": "pm2 restart wabot-ch4mimd"
+        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-prabathmd",
+        "stop": "pm2 stop wabot-prabathmd",
+        "restart": "pm2 restart wabot-prabathmd"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -28,7 +28,7 @@
         "@sl-code-lords/wabetainfo": "1.2.0",
         "@tobyg74/tiktok-api-dl": "1.0.13",
         "@vitalets/google-translate-api": "9.2.0",
-        "@whiskeysockets/baileys": "git+https://github.com/ch4mi-ofc/Baileys-6.0.0.git#master",
+        "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git#master",
         "api-dylux": "latest",
         "aptoide-scraper": "1.0.1",
         "awesome-phonenumber": "6.2.0",
