@@ -51,7 +51,7 @@
 ## 👑 **`CH4MI-MD BOT OWNER,`** 👑
 
 
-   <a href="https://github.com/ch4mi-ofc/CH4MI-MD"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/ch4mi-ofc/CH4MI-MD"><img src="https://i.ibb.co/VYkRsWJ/07df0f845825f5f5.jpg/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
