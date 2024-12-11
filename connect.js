@@ -2,10 +2,10 @@
 
 
 * @project_name CH4MI-MD
-* @authors chamindu lakshan  <https://github.com/ch4mi-ofc>
+* @authors chamindu lakshan  <https://github.com/ch4mi-ofc/CH4MI-MD>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/ch4mi-ofc/CH4MIMD>
-* @version 2.1.2
+* @link <https://github.com/ch4mi-ofc/CH4MI-MD>
+* @version 1
 
 © 2024 chamindu lakshan All rights reserved.
 Licensed under the  GPL-3.0 License;
