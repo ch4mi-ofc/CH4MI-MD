@@ -32,11 +32,11 @@
 
 ---
 
-<a href="https://www.prabath-md-official-web.com/"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
+<a href="https://www.prabath-md-official-web.com/"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create ch4mi-md bot" width="150"></a>
 
 <br>
 
-[![FORK CH4MI-MD](https://img.shields.io/badge/FORK%20-PRABATHMD-white)](https://github.com/ch4mi-ofc/CH4MI-MD/fork)
+[![FORK CH4MI-MD](https://i.ibb.co/VYkRsWJ/07df0f845825f5f5.jpg/FORK%20-PRABATHMD-white)](https://github.com/ch4mi-ofc/CH4MI-MD/fork)
 
  ---
  
